@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of ssangyongsports/logto.** Not for installation: use [Packagist](https://packagist.org/packages/ssangyongsports/logto) or the [upstream repository](https://github.com/ssangyongsportsorg/flarum-ext-oauth-slack).
 
-**0** versions archived · Latest: [`4`](https://github.com/flarchive/ssangyongsports-logto/tree/archive/v4) · License: `MIT` · Flarum: `^1.3.1`
+**4** versions archived · Latest: [`4`](https://github.com/flarchive/ssangyongsports-logto/tree/archive/v4) · License: `MIT` · Flarum: `^1.3.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1` | 2024-07-26 | `^1.3.1` | [Browse](https://github.com/flarchive/ssangyongsports-logto/tree/archive/v1) |
+| `2` | 2024-07-27 | `^1.3.1` | [Browse](https://github.com/flarchive/ssangyongsports-logto/tree/archive/v2) |
+| `3` | 2024-08-04 | `^1.3.1` | [Browse](https://github.com/flarchive/ssangyongsports-logto/tree/archive/v3) |
+| `4` | 2024-08-04 | `^1.3.1` | [Browse](https://github.com/flarchive/ssangyongsports-logto/tree/archive/v4) |
 
 Catalog entry: [packages/ssangyongsports-logto.json](https://github.com/flarchive/archive-index/blob/main/packages/ssangyongsports-logto.json)
 
